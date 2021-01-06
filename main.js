@@ -1,1 +1,1 @@
-console.log("TESTIIIIIIIIIInkdfjbnaebkj vaerkjbveöorihjtipIIIIIIIIIIII");
+console.log("lets mennää");
